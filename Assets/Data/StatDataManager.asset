@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Name: StatDataManager
   m_EditorClassIdentifier: 
   maxHP: 30
+  MaxRange: 1
+  TurnSpeed: 540
